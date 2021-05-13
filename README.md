@@ -1,0 +1,1 @@
+Juego para que el programa adivine que animal escogio el usuario.
